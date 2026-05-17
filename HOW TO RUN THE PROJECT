@@ -1,0 +1,22 @@
+# Step 1
+Open VS Code
+
+# Step 2
+Open Project Folder
+
+# Step 3
+- Install Libraries
+pip install pandas matplotlib
+
+# Step 4
+- Run the Project
+python expense_tracker.py
+
+# EXPECTED OUTPUT
+===== SMART EXPENSE TRACKER =====
+1. Add Expense
+2. View Expenses
+3. Monthly Summary
+4. Generate Expense Chart
+5. Highest Spending Category
+6. Exit
